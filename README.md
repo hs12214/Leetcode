@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hs12214/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hs12214/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/hs12214/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hs12214/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hs12214/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hs12214/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/hs12214/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hs12214/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
