@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/hs12214/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2544-alternating-digit-sum](https://github.com/hs12214/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hs12214/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/hs12214/Leetcode/tree/master/3099-harshad-number) |
