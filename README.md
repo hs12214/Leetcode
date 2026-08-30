@@ -16,10 +16,12 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
@@ -45,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -68,4 +71,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
