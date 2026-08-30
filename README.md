@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -61,5 +62,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/hs12214/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
