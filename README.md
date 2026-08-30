@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2119-a-number-after-a-double-reversal](https://github.com/hs12214/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/hs12214/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -41,12 +42,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3663-find-the-least-frequent-digit](https://github.com/hs12214/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
 | ------- |
+| [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3663-find-the-least-frequent-digit](https://github.com/hs12214/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Sorting
