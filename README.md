@@ -11,6 +11,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hs12214/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hs12214/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/hs12214/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hs12214/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/hs12214/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -22,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/hs12214/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
