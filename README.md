@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hs12214/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -21,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/hs12214/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -68,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,4 +96,8 @@
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/hs12214/Leetcode/tree/master/1768-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
