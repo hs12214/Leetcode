@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -99,5 +100,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
