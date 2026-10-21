@@ -35,6 +35,7 @@
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hs12214/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2119-a-number-after-a-double-reversal](https://github.com/hs12214/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hs12214/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
