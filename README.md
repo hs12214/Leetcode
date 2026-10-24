@@ -35,6 +35,7 @@
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hs12214/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hs12214/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hs12214/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hs12214/Leetcode/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hs12214/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
