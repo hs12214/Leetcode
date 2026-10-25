@@ -35,6 +35,7 @@
 | [0009-palindrome-number](https://github.com/hs12214/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
+| [0728-self-dividing-numbers](https://github.com/hs12214/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hs12214/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hs12214/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
