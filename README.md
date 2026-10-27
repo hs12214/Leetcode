@@ -34,6 +34,7 @@
 | [0002-add-two-numbers](https://github.com/hs12214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hs12214/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/hs12214/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hs12214/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/hs12214/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/hs12214/Leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hs12214/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -126,6 +128,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hs12214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/hs12214/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/hs12214/Leetcode/tree/master/0231-power-of-two) |
 ## Design
 |  |
 | ------- |
