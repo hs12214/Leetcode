@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/hs12214/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/hs12214/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -126,6 +127,7 @@
 | [0707-design-linked-list](https://github.com/hs12214/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hs12214/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hs12214/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
