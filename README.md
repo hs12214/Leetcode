@@ -22,6 +22,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hs12214/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/hs12214/Leetcode/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hs12214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hs12214/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/hs12214/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/hs12214/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/hs12214/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/hs12214/Leetcode/tree/master/0707-design-linked-list) |
