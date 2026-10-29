@@ -24,6 +24,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hs12214/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/hs12214/Leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/hs12214/Leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hs12214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hs12214/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -135,6 +136,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hs12214/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hs12214/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/hs12214/Leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/hs12214/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/hs12214/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/hs12214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
