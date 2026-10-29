@@ -25,6 +25,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/hs12214/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/hs12214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hs12214/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hs12214/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -90,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -135,6 +137,7 @@
 | [0061-rotate-list](https://github.com/hs12214/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/hs12214/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/hs12214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hs12214/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hs12214/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hs12214/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -165,4 +168,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/hs12214/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
