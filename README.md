@@ -100,6 +100,7 @@
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/hs12214/Leetcode/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/hs12214/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/hs12214/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Number Theory
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/hs12214/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/hs12214/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
