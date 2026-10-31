@@ -84,6 +84,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/hs12214/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hs12214/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -155,6 +156,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/hs12214/Leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hs12214/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hs12214/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hs12214/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/hs12214/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/hs12214/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
