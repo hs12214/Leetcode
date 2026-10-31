@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/hs12214/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -145,6 +146,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/hs12214/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hs12214/Leetcode/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
