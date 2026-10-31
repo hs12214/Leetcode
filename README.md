@@ -52,6 +52,7 @@
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hs12214/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/hs12214/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/hs12214/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/hs12214/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/hs12214/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -141,6 +142,7 @@
 | [0069-sqrtx](https://github.com/hs12214/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/hs12214/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/hs12214/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Linked List
 |  |
 | ------- |
