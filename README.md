@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hs12214/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/hs12214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -98,6 +99,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/hs12214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hs12214/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/hs12214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/hs12214/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/hs12214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
