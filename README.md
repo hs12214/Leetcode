@@ -24,6 +24,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hs12214/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/hs12214/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/hs12214/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hs12214/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hs12214/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -108,6 +109,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/hs12214/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/hs12214/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hs12214/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3663-find-the-least-frequent-digit](https://github.com/hs12214/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -131,6 +133,7 @@
 | [1268-search-suggestions-system](https://github.com/hs12214/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hs12214/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hs12214/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
@@ -181,6 +184,7 @@
 | [1268-search-suggestions-system](https://github.com/hs12214/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hs12214/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hs12214/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -269,6 +273,7 @@
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 ## Trie
 |  |
 | ------- |
