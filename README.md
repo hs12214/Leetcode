@@ -36,6 +36,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/hs12214/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hs12214/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/hs12214/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hs12214/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2540-minimum-common-value](https://github.com/hs12214/Leetcode/tree/master/2540-minimum-common-value) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Linked List
 |  |
 | ------- |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -291,4 +295,8 @@
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/hs12214/Leetcode/tree/master/1268-search-suggestions-system) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
