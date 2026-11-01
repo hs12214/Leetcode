@@ -13,6 +13,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/hs12214/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -91,6 +92,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/hs12214/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/hs12214/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -109,6 +111,7 @@
 | [0148-sort-list](https://github.com/hs12214/Leetcode/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0905-sort-array-by-parity](https://github.com/hs12214/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -138,6 +141,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hs12214/Leetcode/tree/master/0412-fizz-buzz) |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1768-merge-strings-alternately](https://github.com/hs12214/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -151,6 +155,7 @@
 | [0441-arranging-coins](https://github.com/hs12214/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -234,4 +239,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
