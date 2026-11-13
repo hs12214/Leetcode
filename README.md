@@ -186,6 +186,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hs12214/Leetcode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/hs12214/Leetcode/tree/master/0412-fizz-buzz) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hs12214/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -265,6 +266,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hs12214/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/hs12214/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/hs12214/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
@@ -328,4 +330,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/hs12214/Leetcode/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hs12214/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
