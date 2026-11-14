@@ -23,6 +23,7 @@
 | [0475-heaters](https://github.com/hs12214/Leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/hs12214/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hs12214/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/hs12214/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -210,6 +211,7 @@
 | [0475-heaters](https://github.com/hs12214/Leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/hs12214/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hs12214/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/hs12214/Leetcode/tree/master/0888-fair-candy-swap) |
