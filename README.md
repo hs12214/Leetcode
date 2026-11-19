@@ -40,6 +40,7 @@
 | [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/hs12214/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/hs12214/Leetcode/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hs12214/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/hs12214/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hs12214/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -159,6 +160,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/hs12214/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hs12214/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hs12214/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -360,4 +362,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hs12214/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/hs12214/Leetcode/tree/master/0226-invert-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/hs12214/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
