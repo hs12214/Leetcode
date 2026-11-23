@@ -206,6 +206,7 @@
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hs12214/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/hs12214/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1768-merge-strings-alternately](https://github.com/hs12214/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/hs12214/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Binary Search
 |  |
 | ------- |
