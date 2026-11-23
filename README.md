@@ -38,6 +38,7 @@
 | [1268-search-suggestions-system](https://github.com/hs12214/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hs12214/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hs12214/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hs12214/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/hs12214/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/hs12214/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -100,6 +101,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/hs12214/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hs12214/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hs12214/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hs12214/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1399-count-largest-group](https://github.com/hs12214/Leetcode/tree/master/1399-count-largest-group) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hs12214/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2119-a-number-after-a-double-reversal](https://github.com/hs12214/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -277,6 +279,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/hs12214/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/hs12214/Leetcode/tree/master/0707-design-linked-list) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hs12214/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hs12214/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/hs12214/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/hs12214/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/hs12214/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Stack
 |  |
@@ -377,4 +381,8 @@
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hs12214/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/hs12214/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
