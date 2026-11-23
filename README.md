@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/hs12214/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/hs12214/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/hs12214/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/hs12214/Leetcode/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hs12214/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -274,6 +275,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/hs12214/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/hs12214/Leetcode/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hs12214/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/hs12214/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/hs12214/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Stack
 |  |
