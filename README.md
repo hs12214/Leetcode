@@ -74,6 +74,7 @@
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/hs12214/Leetcode/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/hs12214/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/hs12214/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hs12214/Leetcode/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/hs12214/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/hs12214/Leetcode/tree/master/0412-fizz-buzz) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hs12214/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -343,6 +345,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hs12214/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/hs12214/Leetcode/tree/master/0392-is-subsequence) |
 | [0792-number-of-matching-subsequences](https://github.com/hs12214/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2501-longest-square-streak-in-an-array](https://github.com/hs12214/Leetcode/tree/master/2501-longest-square-streak-in-an-array) |
 ## Trie
