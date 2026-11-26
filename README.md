@@ -50,6 +50,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/hs12214/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/hs12214/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/hs12214/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hs12214/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hs12214/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/hs12214/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/hs12214/Leetcode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -114,6 +115,7 @@
 | [3099-harshad-number](https://github.com/hs12214/Leetcode/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/hs12214/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hs12214/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hs12214/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/hs12214/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hs12214/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hs12214/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hs12214/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hs12214/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hs12214/Leetcode/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hs12214/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -324,6 +328,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/hs12214/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
