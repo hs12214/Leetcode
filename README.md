@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/hs12214/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0275-h-index-ii](https://github.com/hs12214/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/hs12214/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/hs12214/Leetcode/tree/master/0475-heaters) |
@@ -71,6 +72,7 @@
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/hs12214/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/hs12214/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/hs12214/Leetcode/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/hs12214/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -195,11 +197,13 @@
 | [0141-linked-list-cycle](https://github.com/hs12214/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hs12214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/hs12214/Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hs12214/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hs12214/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hs12214/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -223,6 +227,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/hs12214/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0275-h-index-ii](https://github.com/hs12214/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/hs12214/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/hs12214/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/hs12214/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hs12214/Leetcode/tree/master/0441-arranging-coins) |
@@ -391,4 +396,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/hs12214/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hs12214/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
